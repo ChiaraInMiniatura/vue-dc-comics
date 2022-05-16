@@ -1,0 +1,21 @@
+// UTILITIES
+.container{
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.w-100{
+  width: 100%;
+}
+
+/* DEBUG */
+.debug{
+  background-color: rgba(255, 0, 0, .2);
+  border: 1px solid rgb(7, 5, 5);
+}
+.h70{
+  height: 70px;
+}
+.h100{
+  min-height: 100px;
+}
